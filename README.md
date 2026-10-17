@@ -22,4 +22,8 @@ This project was developed collaboratively with my teammates as part of our Comp
 I contributed to the development of the 3D graphics scene and the implementation of graphics concepts.
 
 ## Screenshot
-![3D Living Room](Screenshot/Living Room.png)
+
+## Screenshot
+
+![3D Living Room](Screenshot/Living%20Room.png)
+
