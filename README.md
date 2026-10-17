@@ -21,7 +21,6 @@ This project was developed collaboratively with my teammates as part of our Comp
 ## My Contribution
 I contributed to the development of the 3D graphics scene and the implementation of graphics concepts.
 
-## Screenshot
 
 ## Screenshot
 
